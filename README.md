@@ -50,17 +50,21 @@ FORTH will be around longer than C.
 [Metaprogramming VAMP in KYRA, a Next-gen Forth-like language --- Onat Türkçüoğlu -- 2025-04-26](https://www.youtube.com/watch?v=J9U_5tjdegY)  
 [Website - Bit Test Complement](https://onatto.github.io/lang.html)  
 
+[Forth Day 2020 - Preview of x64 & ColorForth & SPIR V - Onat](https://www.youtube.com/watch?v=ajZAECYdJvE)
+
 ## Richard WM Jones
 
 [Jonesforth.git](http://git.annexia.org/?p=jonesforth.git;a=summary)  
 [jombloforth (x64 Jonesforth)](https://github.com/matematikaadit/jombloforth)  
 [JonesForth-arm](https://github.com/M2IHP13-admin/JonesForth-arm)  
 
-# David Smith
+## David Smith
 
 [Smithforth workings](https://youtu.be/9MSJGzYELBA)  
 [A Forth for x86-64 personal computers](https://dacvs.neocities.org/SF/)  
 [SmithForth_RISC-V](https://github.com/AndreiDuma/SmithForth_RISC-V)  
+
+[2022-08-27 --- NEW LINUX FORTH --- DAVID SMITH](https://youtu.be/a1UWxa2g9Us)  
 
 ## FORTH, INC.
 
@@ -91,6 +95,11 @@ FORTH will be around longer than C.
 
 [Bootstrap yourself into conviviality by writing your own Forth](https://vimeo.com/859408)  
 
+## Silicon Valley Forth Interest Group
+
+[Website](https://www.forth.org/svfig/)  
+[Youtube](https://www.youtube.com/@siliconvalleyforthinterest1736)  
+
 ## Taygeta Scientific Inc.
 
 [Forth](https://www.taygeta.com/forth.html)
@@ -105,7 +114,7 @@ FORTH will be around longer than C.
 [J.V. Noble: A Beginners Guide to Forth](https://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm)  
 [wiki.laptop: Forth Lessons](https://wiki.laptop.org/go/Forth_Lessons)  
 [Building A Simple Forth Interpreter (in python)](https://peerdh.com/blogs/programming-insights/building-a-simple-forth-interpreter)  
-[HN post on concatenative language interpreter](https://news.ycombinator.com/item?id=13082825)
+[HN post on concatenative language interpreter](https://news.ycombinator.com/item?id=13082825)  
 
 ## Misc Vods
 
