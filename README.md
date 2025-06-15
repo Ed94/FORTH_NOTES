@@ -1,7 +1,5 @@
 # FORTH_NOTES
 
-FORTH will be around longer than C.
-
 [Original Inspiration for these notes](https://x.com/Richard6044392/status/1926097042029363270)  
 [Substack Article](https://edsabode.substack.com/p/onats-kyra-compiled-forths-a-new)
 
