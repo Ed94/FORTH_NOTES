@@ -19,7 +19,7 @@ FORTH will be around longer than C.
 
 ## Timothy Lottes
 
-[4th And Beyond](https://www.youtube.com/watch?v=Awkdt30Ruvk&t=1762s)
+[4th And Beyond](https://www.youtube.com/watch?v=Awkdt30Ruvk)
 
 [Archived Website](https://refined-github-html-preview.kidonng.workers.dev/gomson/TimothyLottes.github.io/raw/refs/heads/master/index.html)  
 
