@@ -19,6 +19,8 @@ FORTH will be around longer than C.
 
 ## Timothy Lottes
 
+[4th And Beyond](https://www.youtube.com/watch?v=Awkdt30Ruvk&t=1762s)
+
 [Archived Website](https://refined-github-html-preview.kidonng.workers.dev/gomson/TimothyLottes.github.io/raw/refs/heads/master/index.html)  
 
 - 20070910 - 2 4th | !2 4th
@@ -62,6 +64,10 @@ FORTH will be around longer than C.
 
 [guitarvydas/fortnish](https://github.com/guitarvydas/forthish): Forth in $WHATEVER
 
+## Pablo Hugo Reda
+
+[phreda4/r3forth](https://github.com/phreda4/r3)
+
 ## David Smith
 
 [Smithforth workings](https://youtu.be/9MSJGzYELBA)  
@@ -69,6 +75,11 @@ FORTH will be around longer than C.
 [SmithForth_RISC-V](https://github.com/AndreiDuma/SmithForth_RISC-V)  
 
 [2022-08-27 --- NEW LINUX FORTH --- DAVID SMITH](https://youtu.be/a1UWxa2g9Us)  
+
+## BANDIT
+
+[Youtube - BANDIT a 32bit baremetal computer that runs Color Forth](https://youtu.be/HK0uAKkt0AE)
+[BANDIT](https://dscf.co.uk/BANDIT)
 
 ## FORTH, INC.
 
